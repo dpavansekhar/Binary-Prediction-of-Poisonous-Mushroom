@@ -9,6 +9,7 @@ This project is designed to predict mushroom edibility using machine learning te
 The project uses two main datasets:
 - **`train.csv`**: Contains training data with features and target labels.
 - **`test.csv`**: Contains test data with features for which predictions are to be made.
+- To access the data set Follow the link 🔗 ![https://www.kaggle.com/competitions/playground-series-s4e8/data] 
 
 ## Steps Involved
 
