@@ -36,5 +36,6 @@ To run this project:
 3. Make predictions on the test dataset.
 4. Save and evaluate the results.
 
-For more details, please refer to the code files and documentation provided in this repository.
+For more details, please refer to the code files in this repository.
 
+For any queries contact me , mail id : [doggapavansekhar@gmail.com]
